@@ -1,0 +1,12 @@
+[submodule "vendor/predis/predis"]
+	path = vendor/predis/predis
+	url = ../../predis/predis.git
+[submodule "vendor/tymon/jwt-auth"]
+	path = vendor/tymon/jwt-auth
+	url = ../../tymondesigns/jwt-auth.git
+[submodule "vendor/lcobucci/jwt"]
+	path = vendor/lcobucci/jwt
+	url = ../../lcobucci/jwt.git
+[submodule "vendor/namshi/jose"]
+	path = vendor/namshi/jose
+	url = ../../namshi/jose.git
